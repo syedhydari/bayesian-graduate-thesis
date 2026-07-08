@@ -8,6 +8,7 @@
 - **Course:** STAT GR 5224 — Bayesian Statistics
 - **Institution:** Columbia University
 - **Project Type:** Graduate thesis
+- **Author:** Syed Bashir Hydari
 - **Research Area:** Bayesian portfolio construction, Kelly Criterion stabilization, estimation risk, and regime-aware allocation
 
 ## Overview

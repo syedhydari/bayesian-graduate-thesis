@@ -1,6 +1,6 @@
 # Bayesian Kelly | Graduate Thesis
 
-**Spring 2026 — STAT GR 5224 Bayesian Statistics / Graduate Thesis:** Columbia graduate thesis on stabilizing Kelly portfolio optimization under estimation risk using Bayesian shrinkage, posterior diagnostics, and BOCPD regime logic.
+**Spring 2026 — STAT GR 5224 Bayesian Statistics / Graduate Thesis:** Columbia graduate thesis on stabilizing Kelly portfolio optimization under estimation risk via Bayesian shrinkage, posterior diagnostics, and BOCPD regime logic.
 
 ## Project Context
 

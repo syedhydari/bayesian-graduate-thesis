@@ -33,6 +33,6 @@ The central finding is that the binding constraint is **mean-estimation noise**,
 
 The strongest Kelly variant is **RegimeDial**, which uses BOCPD regime labels as state-dependent fractional Kelly multipliers rather than as filters for moment estimation. This suggests that regime information is more robust when used for sizing than when used to condition noisy return estimates.
 
-## Note
+## Reproducibility Note
 
-This repository contains selected academic thesis materials only. It is not investment advice and does not contain production trading infrastructure.
+This repository contains selected academic thesis materials only. The original QMD/RMD analysis file is available upon reasonable request; a cleaned public reproduction file may be added later. Note, it is not investment advice and does not contain production trading infrastructure.

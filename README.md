@@ -36,3 +36,12 @@ The strongest Kelly variant is **RegimeDial**, which uses BOCPD regime labels as
 ## Reproducibility Note
 
 This repository contains selected academic thesis materials only. The original QMD/RMD analysis file is available upon reasonable request; a cleaned public reproduction file may be added later. Note, it is not investment advice and does not contain production trading infrastructure.
+
+## Intellectual Property Notice
+
+Copyright © 2026 Syed Bashir Hydari. All rights reserved.
+
+This repository is publicly accessible for inspection and portfolio
+evaluation only. No permission is granted to reproduce, modify, implement,
+distribute, commercialize, or create derivative works from its contents.
+See [LICENSE.md].
